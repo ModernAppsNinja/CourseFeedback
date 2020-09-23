@@ -1,8 +1,8 @@
 ---
-name: Feedback for Course COU-TP6539 - Introduction to VMware Tanzu Portfolio
+name: Feedback for Course COU-VT7933 - vSphere with Tanzu 101
 about: Provide Feedback for Course
 title: ''
-labels: 'COU-TP6539'
+labels: 'COU-VT7933'
 assignees: ''
 
 ---
